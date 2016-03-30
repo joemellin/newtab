@@ -107,6 +107,9 @@ a:focus {
   color:#696E74;
 }
 
+.navbar {
+	padding:0px;
+}
 .nopadding {
 	padding: 0px !important;
 	margin: 0px;
@@ -195,10 +198,19 @@ input {
 	background: #30BAB5;
 	color: white;
 }
+.tags {
+	color:#fff;
+	font-size: 1px;
+}
+.title {
+	color:#777;
+	padding-top:5px;
+	font-size: 20px;
+}
 
 /* HEADER SECTION */
 #h {
-	background: #24D01B;
+	background: #fff;
 	padding-top: 10px;
 	text-align:center;
 	background-attachment: relative;
